@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m a Senior Data Scientist with a strong background in 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khutso-mphelo-a24130b3/) 
 
 ### About Me
-• 🎓 I hold an Honors Degree specializing in ### Applied Mathematics.
+• 🎓 I hold an Honors Degree specializing in Applied Mathematics.
 • 🏢 I have worked in various roles, including:
 • Junior Data Scientist at BCX and Ashanti AI
 • Data Analyst at Comcorp Online
