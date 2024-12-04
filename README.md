@@ -3,11 +3,11 @@ Welcome to my GitHub! I'm a **Senior Data Scientist** with a strong background i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khutso-mphelo-a24130b3/) 
 
 ## About Me  
-- 🎓 I hold an **Honors Degree** specializing in [Your Field or Focus Area].  
+- 🎓 I hold an **Honors Degree** specializing in Applied Mathematics.  
 - 🏢 I have worked in various roles, including:  
- - **Junior Data Scientist** at BCX and Ashanti AI  
+ - **Data Scientist** at BCX and Ashanti AI  
  - **Data Analyst** at Comcorp Online  
- - Currently a **Senior Data Scientist**, delivering impactful solutions through advanced modeling and automation.  
+ - Currently a **Risk and Data Analytics Specialist**, delivering impactful solutions through advanced modeling and automation.  
 ## Expertise  
 - **Machine Learning**: Building predictive and generative models  
 - **Data Engineering**: Designing and managing ETL pipelines  
